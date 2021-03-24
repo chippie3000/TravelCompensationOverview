@@ -79,9 +79,8 @@ function sendData(target,data){
 }
 
 function handleResults(json,forwardTo){
-	// JSON.stringify(obj); //debugging purposes
+	// JSON.stringify(obj); //debugging purposes use this
 	if (forwardTo == targets.HISTORY){
-		//alert(JSON.stringify(json['response']));
 		document.location.href = json['response'][operations.OVERVIEW];
 	} else if (forwardTo == targets.LOAD_DATA){
 		if (json['status'][lists.ROLES] == statusRequest.SUCCESS && json['status'][lists.YEARS] == statusRequest.SUCCESS){
@@ -93,21 +92,6 @@ function handleResults(json,forwardTo){
 			alert(JSON.stringify(json['message']));
 		}
 	}
-	/*
-	if (json['status'][list.ROLES] == statusRequest.SUCCESS &&  ) {
-		if (forwardTo == targets.HISTORY){
-				alert(JSON.stringify(json['response']));
-		} else if (forwardTo == targets.LOAD_DATA){
-			$('img.loading'). remove();
-			$("div#wrapperForm").removeClass("hide");
-			displayLoadedData(json['response']);
-		}
-	} else if (json['status'] == statusRequest.WARNING )
-		alert(json['message'])
-	else if (json['status'] == statusRequest.ERROR )
-		alert(json['message'])
-	else
-		alert("Unknown internal error: " + json['message'])*/
 }
 
 function displayLoadedData(data){

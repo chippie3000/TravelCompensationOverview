@@ -56,18 +56,3 @@ footer {
     content:" *";
     color: red;
 }
-/*
-.centered {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-h1 {
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #ffffff;
-}
-
-h1 {
-	text-shadow: 2px 2px 5px #ffffff;
-}*/

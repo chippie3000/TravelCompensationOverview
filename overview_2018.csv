@@ -1,0 +1,74 @@
+firstname;lastname;role_id;title;compensation;transport;process_date;payment_date;year;month
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/02/2018;03/02/2018;2018;1
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/02/2018;03/02/2018;2018;1
+Paul;Johnson;2;Data Engineer;240.00;Car;01/02/2018;03/02/2018;2018;1
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/02/2018;03/02/2018;2018;1
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/02/2018;03/02/2018;2018;1
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/03/2018;03/03/2018;2018;2
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/03/2018;03/03/2018;2018;2
+Paul;Johnson;2;Data Engineer;240.00;Car;01/03/2018;03/03/2018;2018;2
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/03/2018;03/03/2018;2018;2
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/03/2018;03/03/2018;2018;2
+Matthijs;Janssen;5;Front-end Engineer;396.00;Bike;01/03/2018;03/03/2018;2018;2
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/04/2018;03/04/2018;2018;3
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/04/2018;03/04/2018;2018;3
+Paul;Johnson;2;Data Engineer;240.00;Car;01/04/2018;03/04/2018;2018;3
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/04/2018;03/04/2018;2018;3
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/04/2018;03/04/2018;2018;3
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/05/2018;03/05/2018;2018;4
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/05/2018;03/05/2018;2018;4
+Paul;Johnson;2;Data Engineer;240.00;Car;01/05/2018;03/05/2018;2018;4
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/05/2018;03/05/2018;2018;4
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/05/2018;03/05/2018;2018;4
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/06/2018;03/06/2018;2018;5
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/06/2018;03/06/2018;2018;5
+Paul;Johnson;2;Data Engineer;240.00;Car;01/06/2018;03/06/2018;2018;5
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/06/2018;03/06/2018;2018;5
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/06/2018;03/06/2018;2018;5
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/07/2018;02/07/2018;2018;6
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/07/2018;02/07/2018;2018;6
+Paul;Johnson;2;Data Engineer;240.00;Car;01/07/2018;02/07/2018;2018;6
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/07/2018;02/07/2018;2018;6
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/07/2018;02/07/2018;2018;6
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/08/2018;03/08/2018;2018;7
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/08/2018;03/08/2018;2018;7
+Paul;Johnson;2;Data Engineer;240.00;Car;01/08/2018;03/08/2018;2018;7
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/08/2018;03/08/2018;2018;7
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/08/2018;03/08/2018;2018;7
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/08/2018;03/08/2018;2018;7
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/08/2018;03/08/2018;2018;7
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/09/2018;03/09/2018;2018;8
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/09/2018;03/09/2018;2018;8
+Paul;Johnson;2;Data Engineer;240.00;Car;01/09/2018;03/09/2018;2018;8
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/09/2018;03/09/2018;2018;8
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/09/2018;03/09/2018;2018;8
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/09/2018;03/09/2018;2018;8
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/09/2018;03/09/2018;2018;8
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/10/2018;03/10/2018;2018;9
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/10/2018;03/10/2018;2018;9
+Paul;Johnson;2;Data Engineer;240.00;Car;01/10/2018;03/10/2018;2018;9
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/10/2018;03/10/2018;2018;9
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/10/2018;03/10/2018;2018;9
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/10/2018;03/10/2018;2018;9
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/10/2018;03/10/2018;2018;9
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/11/2018;03/11/2018;2018;10
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/11/2018;03/11/2018;2018;10
+Paul;Johnson;2;Data Engineer;240.00;Car;01/11/2018;03/11/2018;2018;10
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/11/2018;03/11/2018;2018;10
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/11/2018;03/11/2018;2018;10
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/11/2018;03/11/2018;2018;10
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/11/2018;03/11/2018;2018;10
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/12/2018;03/12/2018;2018;11
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/12/2018;03/12/2018;2018;11
+Paul;Johnson;2;Data Engineer;240.00;Car;01/12/2018;03/12/2018;2018;11
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/12/2018;03/12/2018;2018;11
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/12/2018;03/12/2018;2018;11
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/12/2018;03/12/2018;2018;11
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/12/2018;03/12/2018;2018;11
+Arthur;Palm;1;Back-end Engineer;60.00;Bike;01/01/2019;03/01/2019;2018;12
+Rens;Garcia;5;Front-end Engineer;48.00;Car;01/01/2019;03/01/2019;2018;12
+Paul;Johnson;2;Data Engineer;240.00;Car;01/01/2019;03/01/2019;2018;12
+Martin;Bakker;4;Software Engineer;64.00;Bike;01/01/2019;03/01/2019;2018;12
+Jeroen;Visser;3;Data Scientist;360.00;Bike;01/01/2019;03/01/2019;2018;12
+Tineke;de Jong;4;Software Engineer;48.00;Bike;01/01/2019;03/01/2019;2018;12
+Amout;van den Berg;2;Data Engineer;230.00;Train;01/01/2019;03/01/2019;2018;12
