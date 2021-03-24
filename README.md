@@ -13,7 +13,7 @@ Most employees work 5 days a week, however some less.
 This sample applications has it's scope and limitations:
 - Database used: MySQL database.
 - WampServer was used to test this application on a local machine.
-- With this application you cna not only export a csv containing an overview of the compensation per employeee per month for a particular year, 
+- With this application you can not only export a csv containing an overview of the compensation per employeee per month for a particular year, 
 but you can also use the filters available to export only data from specific 'roles' or a particular year
 - The filter 'Employees' has not been implemented yet!
 - The filter 'Year' is currently required and only single select is possible
@@ -23,9 +23,9 @@ when exporting the overview
 - At the start of the application, a list of roles and the available years are retrieved from the database into the application.
 - While the list of roles and available years of data to export is being retrieved from the database, there is a loading gif on the page.
 This will be removed and the form will be put into it's place after the lists has been loaded succesfully.
-This dat ais loaded using the file 'loadData.php'
-- There is also the file 'gettravelCompensationHistory.php'. Contains th ephp code which will retrieve the overview and create the csv file 
-and put it available gfor download. 
+This data is loaded using the file 'loadData.php'
+- There is also the file 'getTravelCompensationHistory.php'. Contains the php code which will retrieve the overview and create the csv file 
+and put it available for download. 
 - To import the data into your database use the file 'companydb.sql'
 - The database also contains an event which will automatically calculate the compensation amounts at the beginning of each month, based on 
 the current travel information of the employee. You might noticed not all employees started working at the same time. Also some employees moved 
