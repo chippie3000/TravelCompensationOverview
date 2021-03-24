@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<link rel="shortcut icon" href="./Images/favicon.ico" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<!-- <meta name="description" content=" ... "> -->
+	<title>Transport compensation overview | Tenzinger</title>
+	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="./selectize.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="selectize.css" />
+	<link rel="stylesheet" type="text/css" href="./style.css"/>
+	<script type="text/javascript" src="./myScript.js"></script>
+</head>
+<body>
+	<div id="main">
+	<center>
+		<div id="travelCompensationOverview">
+			<h1>Travel compensation Overview</h1>
+			<img src="./Images/loading.gif" alt="Loading page ...." class="loading"/>
+			<div id="wrapperForm" class="hide">
+				<form onsubmit="return retrieveTravelCompensationOverview(event)" id="form1">
+					<label for="fEmployee">Employees:</label>
+					<select  id="fEmployee" name="fEmployee" class="selectize" multiple></select><br><br>
+					<label for="fRoles">Roles:</label>
+					<select  id="fRoles" name="fRoles" class="selectize" multiple></select><br><br>
+					<label for="fYear" class="required">Year:</label>
+					<select  id="fYear" name="fYear" class="selectize" required></select><br><br>
+				</form>
+				<button type="submit" form="form1" value="Submit">Export overview</button>
+			</div>
+		</div>
+		<footer>&copy; 2021 Tenzinger.com B.V. | All rights reserved</footer>
+	</center>
+	</div>
+</body>
+</html>
+
+

@@ -1,0 +1,73 @@
+html {
+   min-height: 100%;
+   background-image: url("./Images/background_img.PNG");
+	background-position: left top;
+	background-repeat: repeat;
+}
+div#main {
+  position: relative;
+  min-height: 100vh;
+}
+div#travelCompensationOverview{
+	padding-top: 28px;
+	margin: 5px;
+	width: 800px;
+	height: 500px;
+	background: url("./Images/background_img.PNG");
+	background-position: left top;
+	background-repeat: repeat;
+	display: table-cell;
+}
+h1{
+	font-family: Montserrat,times;
+	font-weight: 700;
+	color: #ffffff;
+	font-size: 3.1rem;
+}
+div#wrapperForm{
+	text-align: left;
+	width: 400px;
+    height: auto;
+    margin: auto;
+}
+img.loading{
+	width:230px;
+	margin-top:55px;
+}
+form > label{
+	font-weight: 800;
+	font-size: 20px;
+}
+div#wrapperForm > button{
+	font-size: 20px;
+	font-weight : bold;
+}
+footer {
+	position: absolute;
+	font-size: 16px;
+	bottom: 0;
+	width: 100%;
+    color: #ffffff;
+}
+.hide{
+	display: none;
+}
+.required:after {
+    content:" *";
+    color: red;
+}
+/*
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1 {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #ffffff;
+}
+
+h1 {
+	text-shadow: 2px 2px 5px #ffffff;
+}*/
